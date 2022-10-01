@@ -1,0 +1,10 @@
+body{
+    background-color: deepskyblue;
+    background-size:cover;
+    border: 20px ridge deeppink;
+}
+
+.heading{
+    font-size: 23px;
+width: 100%;
+margin: 0px;}
